@@ -1,0 +1,8 @@
+mediapipe==0.10.11
+opencv-python==5.0.0.93
+numpy>=2.0
+pygame==2.6.1
+PyOpenGL==3.1.10
+PyOpenGL_accelerate==3.1.10
+# 可选：加载自己的 GLTF/GLB/OBJ 3D 模型时安装
+# trimesh
