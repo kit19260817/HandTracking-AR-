@@ -17,16 +17,18 @@ This project is still being actively tested and optimized to improve the user ex
 - Download `main.exe` from the Releases section and double-click to run
 - A webcam is required; close other apps that may occupy the camera (Zoom, Teams, WeChat video, etc.)
 - Press `ESC` to exit
-- Right palm facing up → model appears and follows your palm
-- Left index finger pointing at screen → color adjustment bar appears
-- Left thumb up (thumbs-up gesture) → scale adjustment bar appears
+- Left palm facing down → model appears and follows your left hand
+- Right index finger pointing at screen → color adjustment bar appears
+- Right thumb up (thumbs-up gesture) → scale adjustment bar appears
+- Replace the .glb model file to change the display model
 >  
 - 在 Release 中下载 `main.exe`，双击即可运行
 - 需要摄像头；请关闭可能占用摄像头的程序（Zoom、Teams、微信视频等）
 - 按 `ESC` 退出
-- 右手掌心朝上 → 模型出现并跟随掌心移动
-- 左手食指指向屏幕 → 弹出颜色调节条
-- 左手大拇指朝上（点赞手势）→ 弹出大小调节条
+- 左手掌心朝上 → 模型出现并跟随掌心移动
+- 右手食指指向屏幕 → 弹出颜色调节条
+- 右手大拇指朝上（点赞手势）→ 弹出大小调节条
+- 替换.glb模型文件即可替换显示的模型
 
 # Functions 功能
 - Real-time hand tracking with 21 landmarks via MediaPipe
