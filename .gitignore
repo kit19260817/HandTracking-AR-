@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Runtime
+crash_log.txt
+
+# IDE
+.vscode/
+.idea/
+
